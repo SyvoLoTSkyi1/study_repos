@@ -7,7 +7,9 @@ str2 = "qwertyuiopasdfghjklzxcvbnm"
 
 str3 = str2.upper()
 
-str = str1*5 + str2*5 + str3*5
+str4 = "!#%&*_?"
+
+str = str1*5 + str2*5 + str3*5 + str4*5
 
 
 lst = list(str)
