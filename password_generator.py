@@ -1,4 +1,3 @@
-
 import random
 
 str1 = "1234567890"
